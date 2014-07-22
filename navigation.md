@@ -1,4 +1,5 @@
-# MDwiki
+![alt tag](ninja.png)
+# Medic Ninja
 
 [About](index.md)
 
