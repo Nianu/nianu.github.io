@@ -1,18 +1,33 @@
-Quick Start
+Upper GI
 ===========
 
-anything written here
-
-Note: If you are already familiar with Markdown, you might want to look at [the source of this wiki][src], which is itself created with MDwiki.
-
-  [src]: https://github.com/Dynalon/mdwiki/tree/gh-pages
-
-Markdown
+Dysphagia
 --------
 
-MDWiki uses [Markdown][markdown] as a markup language. No knowledge of HTML or CSS is required to construct a website.
+>**List the common causes and discuss investigations of dysphagia**
 
-A simple `index.md` could look like:
+####**Dysphagia** = Difficuly in swallowing
+####**Odynophagia** = Pain on swallowing
+
+**Pharyngeal/Oesophageal**
+
+  * [Tonsilitis](tonsilitis.jpg)
+  * Mysathenia Gravis (autoimmune neuromuscular disease)
+	* Circulating antibodies block the ACh receptors at the post-synaptic neuromuscular junction
+  * Upper Oesophageal Achalasia (failure of smooth muscle fibres to relax)
+  * Cerebrovascular Accident
+
+Note: Most common cause is a CVA (Cerebrovascular Accident) causing damage to the 9th, 10th and 12th cranial nerves
+
+**Oesophageal**
+
+  * Achalasia (failure of smooth muscle fibres to relax)
+  * Oesophageal Spasm
+  * Luminal Obstruction
+	* Carcinoma
+
+
+
 
 ```
 Heading
