@@ -1,2 +1,2 @@
-MedicNinja
+Medic Ninja
 ==========
