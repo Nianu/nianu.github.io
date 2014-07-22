@@ -1,4 +1,3 @@
-![alt tag](ninja.png)
 # Medic Ninja
 
 [About](index.md)
@@ -12,7 +11,7 @@
   * # Advanced
   * [Customizing](customizing.md)
 
-[Gimmicks](gimmicks.md)
+[Upper GI](uppergi.md)
 
 [Tutorials]()
 
