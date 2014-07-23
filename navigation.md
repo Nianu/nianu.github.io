@@ -11,11 +11,9 @@
   * # Advanced
   * [Customizing](customizing.md)
 
-[Upper GI](uppergi.md)
+[Upper GI]()
 
-[Tutorials]()
-
-  * [About the Tutorials](tutorials.md)
+  * [Dysphagia](dysphagia.md)
   - - - -
   * [Hosting with GitHub](tutorials/github.md)
   * [Use with Dropbox](tutorials/dropbox.md)
