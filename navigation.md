@@ -2,29 +2,15 @@
 
 [About](index.md)
 
-[Docs]()
+[Cardiology]()
 
-  * [Quickstart](quickstart.md)
-  * [Layout](layout.md)
-  * [FAQ](faq.md)
-  - - - -
-  * # Advanced
-  * [Customizing](customizing.md)
-
-[Upper GI]()
-
+[GI Tract]()
+  
+  * # Upper GI
   * [Dysphagia](dysphagia.md)
   - - - -
-  * [Hosting with GitHub](tutorials/github.md)
-  * [Use with Dropbox](tutorials/dropbox.md)
-  * [Set up MDwiki on IIS](tutorials/iis/iis.md)
-
-[Examples](examples.md)
-[Download](download.md)
-[Contribute](contribute/index.md)
-[Blog](blog.md)
-[Forum](forum.md)
-
+  * # Small Intestine and Appendix
+  * [Acute Appendicitis]()
 
 [gimmick:theme (inverse: false)](journal)
 

@@ -1,4 +1,4 @@
-###### Medic Ninja
+# Medic Ninja
 
 [About](index.md)
 
@@ -11,13 +11,13 @@
   * # Advanced
   * [Customizing](customizing.md)
 
-[Upper GI]()
-
+[GI Tract]()
+  
+  * # Upper GI
   * [Dysphagia](dysphagia.md)
   - - - -
-  * [Hosting with GitHub](tutorials/github.md)
-  * [Use with Dropbox](tutorials/dropbox.md)
-  * [Set up MDwiki on IIS](tutorials/iis/iis.md)
+  * # Small Intestine and Appendix
+  * [Acute Appendicitis]()
 
 [Examples](examples.md)
 [Download](download.md)
