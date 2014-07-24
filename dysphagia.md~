@@ -23,7 +23,7 @@ Note: Most common cause is a CVA (Cerebrovascular Accident) causing damage to th
 **Oesophageal**
 
   * Achalasia
-	* Destruction of ganglion cells in myenteric plexus
+	* Destruction of ganglion cells in [myenteric plexus](myenteric.png)
 		* Lose ability to relax lower oesophageal sphincter
 		* Disordered oesophageal motility
 	* Massive dilation of lower oesphagus
