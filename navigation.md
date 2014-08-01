@@ -12,6 +12,11 @@
   * # Small Intestine and Appendix
   * [Acute Appendicitis]()
 
+[Renal]()
+  
+  * [Renal Failure](renalfailure.md)
+
+
 [gimmick:theme (inverse: false)](journal)
 
 
